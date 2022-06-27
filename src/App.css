@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+
+
+}
+.con{
+  background-color:white;
+  width: 500px;
+  height: 500px;
+  margin: 2rem;
+  padding: 1rem;
+  text-align: center;
+
+}
+button{
+  background-color: white;
+  outline: none;
+  border: 1px solid gray;
+  width: 70px;
+  height: 25px;
+}
